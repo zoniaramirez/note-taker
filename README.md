@@ -16,6 +16,7 @@ This note taker was created as a challenge for bootcamp students to apply everyt
     - When I click the save button the new note entered is saved and appears in the left column with the existing notes and the buttons in the navigation disappear
     - When I click on an existing note the note appears in the right column and a "New Note" button appears in the navigation 
     - When I click the "New Note" button in the navigation I am presented with empty fields to enter a new note and the button disappears
+    - When I click on the trash can icon the note is deleted
 
 ## Installation
  ```
