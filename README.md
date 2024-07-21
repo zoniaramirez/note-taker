@@ -41,6 +41,6 @@ npm start
 
 ## Links
 
-[LiveURL](https://note-taker-lk75.onrender.com)
+[Live URL](https://note-taker-lk75.onrender.com)
 
 [GitHub Repo](https://github.com/zoniaramirez/note-taker)
